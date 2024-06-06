@@ -3197,7 +3197,7 @@ Seu datasource foi criado:
 
 ![image](https://user-images.githubusercontent.com/81401104/117499564-c3f8b400-af51-11eb-8d66-6a1d6709301e.png)
 
-🔗Vídeo: https://www.youtube.com/watch?v=MS_UWKBwO80&list=PLTHIfO0UrihGXWtezzJnmZgS74lfA3PdH&index=38
+🔗Vídeo: [https://www.youtube.com/watch?v=75hkYoWbOhk]
 
 <div id='id-Process'/>
 
